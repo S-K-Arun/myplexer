@@ -1,0 +1,13 @@
+LICENSE.txt
+MANIFEST.in
+README.txt
+setup.py
+myplexer/__init__.py
+myplexer/app.py
+myplexer/app2.py
+myplexer/files.py
+myplexer.egg-info/PKG-INFO
+myplexer.egg-info/SOURCES.txt
+myplexer.egg-info/dependency_links.txt
+myplexer.egg-info/not-zip-safe
+myplexer.egg-info/top_level.txt
